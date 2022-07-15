@@ -1,0 +1,94 @@
+{
+  "registeredCarRooms": [
+    {
+      "roomNo": 2,
+      "sizes": {
+        "sizeLength": 12,
+        "sizeHeight": 13,
+        "sizeWidth": 14,
+        "sizeTireWidth": 15,
+        "sizeWeight": 16,
+        "sizeGroundHeight": 1000
+      },
+      "contractConditions": {
+        "rent": "11111",
+        "rentTax": 1,
+        "feeType": 1,
+        "guaranteeCommissionFee": "",
+        "guaranteeCommissionRenewalFee": "",
+        "renewalFee": "",
+        "renewalTax": "",
+        "userKeyMoney": "",
+        "userKeyTax": "",
+        "contractProcedureFee": "",
+        "contractProcedureTax": "",
+        "otherFee": "10000",
+        "otherFeeTax": "",
+        "otherFeeName": "",
+        "minContractTerm": "",
+        "isGarageCertRequired": 1,
+        "garageCertIssuanceFee": ""
+      }
+    },
+    {
+      "roomNo": 3,
+      "sizes": {
+        "sizeLength": 12,
+        "sizeHeight": 13,
+        "sizeWidth": 14,
+        "sizeTireWidth": 15,
+        "sizeWeight": 16,
+        "sizeGroundHeight": 1000
+      },
+      "contractConditions": {
+        "rent": "",
+        "rentTax": 1,
+        "feeType": 1,
+        "guaranteeCommissionFee": "",
+        "guaranteeCommissionRenewalFee": "",
+        "renewalFee": "",
+        "renewalTax": "",
+        "userKeyMoney": "",
+        "userKeyTax": "",
+        "contractProcedureFee": "",
+        "contractProcedureTax": "",
+        "otherFee": "",
+        "otherFeeTax": "",
+        "otherFeeName": "",
+        "minContractTerm": "",
+        "isGarageCertRequired": 1,
+        "garageCertIssuanceFee": ""
+      }
+    },
+    {
+      "roomNo": 4,
+      "sizes": {
+        "sizeLength": 12,
+        "sizeHeight": 13,
+        "sizeWidth": 14,
+        "sizeTireWidth": 15,
+        "sizeWeight": 16,
+        "sizeGroundHeight": 1000
+      },
+      "contractConditions": {
+        "rent": "1000",
+        "rentTax": 1,
+        "feeType": 1,
+        "guaranteeCommissionFee": "1000",
+        "guaranteeCommissionRenewalFee": "10000",
+        "renewalFee": "",
+        "renewalTax": "",
+        "userKeyMoney": "",
+        "userKeyTax": "",
+        "contractProcedureFee": "",
+        "contractProcedureTax": "",
+        "otherFee": "10000",
+        "otherFeeTax": "",
+        "otherFeeName": "物件紹介料",
+        "minContractTerm": "",
+        "isGarageCertRequired": 1,
+        "garageCertIssuanceFee": ""
+      }
+    }
+  ]
+}

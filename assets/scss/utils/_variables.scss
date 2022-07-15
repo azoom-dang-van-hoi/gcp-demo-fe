@@ -1,0 +1,74 @@
+:root {
+  --rs-primary-color: black;
+  --rs-platinum-color: #e3e3e3;
+  --rs-textfieldCHform-textareaCHinputPSfocus---outline: var(
+    --rs-primary-color
+  );
+  --rs-buttonPEbeforers-buttonPEafter---background-color: var(
+    --rs-primary-color
+  );
+  --rs-textfieldCHformPSnotV-textareaCHinputCHnativecontrol---caret-color: var(
+    --rs-primary-color
+  );
+  --color-primary: #8f19f5;
+  --color-border-primary: #8f19f5;
+
+  --color-grey: #888888;
+  --color-white: #ffffff;
+  --color-black: black;
+  --color-purple: #6200e8;
+  --color-red: red;
+  --color-border-grey: #888888;
+  --color-border-black: black;
+}
+
+$material-icons-font-path: '~material-icons/iconfont/';
+
+$color-bg-primary: #8f19f5;
+$color-primary: #8f19f5;
+$color-secondary: black;
+
+$color-bg-green: #e4f4e9;
+$color-bg-violet: #9900ff;
+$color-bg-gainsboro: #e2e3e6;
+$color-bg-cultured: #f7f7f7;
+$color-bg-grey-lighten-1: #e3e3e3;
+$color-bg-grey-lighten-2: #cccccc;
+$color-bg-grey-lighten-3: #f4f2f2;
+$color-bg-grey-lighten-4: #999999;
+$color-bg-magnolia-linghten-1: #f9f1fe;
+$color-bg-magnolia-linghten-2: #f3f1fd;
+$color-bg-white-linghten-1: #ffffff;
+$color-bg-white-linghten-2: #fafafa;
+
+$color-border-red: #dc5f76;
+$color-border-green: #28a753;
+$color-border-blue: #3983f2;
+$color-border-grey-lighten-1: #efefef;
+$color-border-grey-lighten-2: #cccccc;
+$color-border-grey-lighten-3: #e3e3e3;
+$color-border-grey-lighten-4: #bbbbbb;
+$color-border-grey-lighten-5: #e0e0e0;
+$color-border-grey-lighten-6: #999999;
+$color-border-grey-lighten-7: #eeeeee;
+
+$color-blue: #3983f2;
+$color-red: #dc5f76;
+$color-red-lighten-1: red;
+$color-yellow: #e09b33;
+$color-jet: #333333;
+$color-green: #28a753;
+$color-white: #ffffff;
+$color-grey-lighten-1: #cccccc;
+$color-grey-lighten-2: #f9f9f9;
+$color-grey-lighten-3: #bbbbbb;
+$color-grey-lighten-4: #aaaaaa;
+$color-grey-lighten-5: #999999;
+$color-grey-lighten-6: #888888;
+$color-grey-lighten-7: #666666;
+$color-grey-lighten-8: #7f7f7f;
+
+$font-weight-thin: 400;
+$font-weight-light: 500;
+$font-weight-strong: 600;
+$font-weight-bold: 700;
