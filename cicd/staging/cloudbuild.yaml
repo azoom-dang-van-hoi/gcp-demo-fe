@@ -7,7 +7,7 @@ steps:
     args:
       - '-c'
       - |
-        gcloud secrets versions access latest --project=${PROJECT_ID} --secret=${_ENV}-${_APP_NAME} --format='get(payload.data)' | tr '_-' '/+' | base64 -d > .env
+        gcloud secrets versions access latest --project=${PROJECT_ID} --secret=${_APP_NAME} --format='get(payload.data)' | tr '_-' '/+' | base64 -d > .env
   # this builds app docker image
   - id: 'build-app-image'
     name: 'gcr.io/kaniko-project/executor:latest'
@@ -33,6 +33,7 @@ steps:
           --region us-central1 \
 substitutions:
   _ENV: staging
+  _APP_NAME: hoi-demo-fe
   _SECRET_NAME: learnGCP
   _PROJECT_ID: azoom-n-d-phong
   _DECRYPTED_ENV_FILE_LOCATION: ./.env

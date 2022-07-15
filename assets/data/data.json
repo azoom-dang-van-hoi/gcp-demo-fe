@@ -1,0 +1,28 @@
+{
+    "checkInformations": [
+        {
+            "title": "反社チェック",
+            "status": "審査完了",
+            "description": "問題なし",
+            "time": "",
+            "check": true
+        },
+        {
+            "title": "リーガルチェック",
+            "status": "審査完了",
+            "description": "",
+            "link": "",
+            "time": "2022-04-07T02:00:00.000Z",
+            "check": true,
+            "user": "アズーム太郎"
+        },
+        {
+            "title": "反社チェック",
+            "status": "審査完了",
+            "description": "問題なし",
+            "time": "2022-04-07T00:00:00.000Z",
+            "check": false,
+            "user": "アズーム太郎"
+        }
+    ]
+}

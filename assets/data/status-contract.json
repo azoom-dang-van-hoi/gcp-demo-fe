@@ -1,0 +1,126 @@
+{
+  "status": "ユーザー確認待ち",
+  "contractorApplicant": {
+    "detail": [
+      {
+        "key": "メールアドレス",
+        "value": "tarou.yamada@gmail.com"
+      },
+      {
+        "key": "メモ",
+        "value": "駐車場物件ＩＤの空き状況を確認したい。→2021年1月4日11時以降をご案内。→2021年1月4日11時以降をご案内。→2021年1月4日11時以降をご案内。→2021年1月4日11時以降をご案内。→2021年1月4→2021年1月4→2021年1月4tarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.comtarou.yamada@gmail.com"
+      }
+    ],
+    "title": {
+      "description": "",
+      "link": "",
+      "name": "tho",
+      "ruby": "tho_kana"
+    },
+    "result": {
+      "result": "無効",
+      "endDate": "2021年4月1日",
+      "url": "https://form-url"
+    }
+  },
+  "parking": {
+    "carRoomParkingContracts": [
+      {
+        "carRoomName": "車室1",
+        "id": "1"
+      },
+      {
+        "carRoomName": "車室2",
+        "id": "2"
+      }
+    ],
+    "detail": [
+      {
+        "key": "契約期間",
+        "value": "2022年04月01日〜2023年04月01日"
+      },
+      {
+        "key": "契約台数",
+        "value": "1台"
+      },
+      {
+        "key": "保証委託更新月",
+        "value": "5月"
+      }
+    ],
+    "title": {
+      "link": "",
+      "name": "新宿マインズタワー"
+    }
+  },
+  "contractor": {
+    "detail": [
+      {
+        "key": "住所",
+        "value": "〒151-0053"
+      },
+      {
+        "key": "",
+        "value": "東京都渋谷区代々木2丁目1-1"
+      },
+      {
+        "key": "メールアドレス",
+        "value": "tarou.yamada@gmail.com"
+      },
+      {
+        "key": "電話番号",
+        "value": "080-1234-5678"
+      },
+      {
+        "key": "固定電話",
+        "value": "042-1234-5678"
+      },
+      {
+        "key": "FAX番号",
+        "value": "030-1234-5679"
+      }
+    ],
+    "title": {
+      "name": "山田 太郎",
+      "ruby": "ヤマダ タロウ"
+    }
+  },
+  "documentDestination": {
+    "detail": [
+      {
+        "key": "住所",
+        "value": "〒151-0053"
+      },
+      {
+        "key": "",
+        "value": "東京都渋谷区代々木2丁目1-1"
+      }
+    ],
+    "title": {
+      "name": "山田 太郎",
+      "ruby": "ヤマダ タロウ"
+    }
+  },
+  "select": [
+    {
+      "id": 1,
+      "value": "ok"
+    },
+    {
+      "id": 2,
+      "value": "ok"
+    },
+    {
+      "id": 3,
+      "value": "ok"
+    },
+    {
+      "id": 4,
+      "value": "ok"
+    },
+    {
+      "id": 5,
+      "value": "ok"
+    }
+  ]
+}
